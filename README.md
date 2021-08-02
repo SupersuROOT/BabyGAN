@@ -19,7 +19,7 @@
 ![example2](https://raw.githubusercontent.com/tg-bomze/BabyGAN/master/media/example2.JPG)
 ![example3](https://raw.githubusercontent.com/tg-bomze/BabyGAN/master/media/example3.JPG)
 
-## Pre-train Models and dictionaries
+## 训练需要的模型
 按照 [LINK](https://drive.google.com/drive/folders/1xwqqG0HkLe2AiXxjC-XK8OfvMKT1jBlp) 将该文件夹快捷方式链接到Google Drive:
 
 ![shortcut](media/mount_eng.png)
