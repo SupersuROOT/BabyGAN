@@ -54,5 +54,5 @@
 3) 查找图片的潜在特征
 > python encode_images.py aligned_images/ generated_images/ latent_representations/
 
-## Usage BabyGAN
-- SOON
+## BabyGAN 用法
+- 还没做呢...
