@@ -1,6 +1,8 @@
 # BabyGAN
 
-![logo](https://raw.githubusercontent.com/tg-bomze/BabyGAN/master/media/logo.png)
+![logo](https://raw.githubusercontent.com/tg-bomze/BabyGAN/master/media/logo.png)  
+
+[Chinese](README_CHINESE.md)
 
 **Check how it works online:**
 - Russian Language [![Colab](https://camo.githubusercontent.com/52feade06f2fecbf006889a904d221e6a730c194/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/github/tg-bomze/BabyGAN/blob/master/BabyGAN_(RUS).ipynb)
