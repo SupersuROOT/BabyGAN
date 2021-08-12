@@ -1,6 +1,8 @@
 # BabyGAN
 
-![logo](https://raw.githubusercontent.com/tg-bomze/BabyGAN/master/media/logo.png)
+![logo](https://raw.githubusercontent.com/tg-bomze/BabyGAN/master/media/logo.png)  
+
+[English](README.md)
 
 **注：该复刻自tg-bomze/BabyGAN，为其汉语翻译**
 
